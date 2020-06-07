@@ -2,6 +2,9 @@
 
 `calisthantics` is a Flask web framework serving our backend
 
+## IDE settings
+- Just use default PyCharm settings. 
+
 ## Development
 
 ### Install dependencies(first time)

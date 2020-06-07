@@ -1,5 +1,8 @@
 # dependencies
 venv
 
+## IDE settings
+.idea/
+
 #misc
 __pycache__
